@@ -5,8 +5,8 @@ import UserList from '../components/UserList';
 const Users = () => {
     const USERS = [{
         id: 'u1',
-        name: 'Max Schwarz',
-        image: 'https://media.kairos.com/go-demo/images/team/Ben_Virdee-Chapman.jpg',
+        name: 'Morty Smith',
+        image: 'https://i.dgif.co/gifs/rm49/O/rm49.gif',
         places: 3
     }];
 
