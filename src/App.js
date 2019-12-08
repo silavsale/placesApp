@@ -5,6 +5,9 @@ import Users from './user/pages/Users';
 import NewPlace from './places/pages/NewPlace';
 
 
+let a = ['aaa', 'bbb', 4];
+
+console.table(a);
 
 const App = () => {
   return <Router>
