@@ -11,8 +11,8 @@ const DUMMY_PLACES = [
         imageUrl: 'https://cdn.getyourguide.com/img/tour_img-1739965-148.jpg',
         address: '20 W 34th St, New York, NY 10001',
         location: {
-            lat: 40.7815586,
-            lng: -74.1172024
+            latitude: 40.748817,
+            longitude: -73.985428
         },
         creator: 'u1'
     }, {
@@ -22,8 +22,8 @@ const DUMMY_PLACES = [
         imageUrl: 'https://d12dkjq56sjcos.cloudfront.net/pub/media/catalog/product/cache/d9fe7781ddb2422361b5e0fbe1b7086d/e/s/esb_attr.jpg',
         address: '20 W 34th St, New York, NY 10001',
         location: {
-            lat: 40.7815586,
-            lng: -74.1172024
+            lat: 40.748817,
+            lng: -73.985428
         },
         creator: 'u2'
     }
